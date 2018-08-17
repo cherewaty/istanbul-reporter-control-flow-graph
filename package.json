@@ -1,0 +1,19 @@
+{
+  "name": "istanbul-reporter-control-flow-graph",
+  "version": "0.1.0",
+  "description": "Custom Istanbul reporter for creating control flow graphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cherewaty@github.com/cherewaty/istanbul-reporter-control-flow-graph.git"
+  },
+  "author": "Jeffrey Cherewaty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cherewaty/istanbul-reporter-control-flow-graph/issues"
+  },
+  "homepage": "https://github.com/cherewaty/istanbul-reporter-control-flow-graph#readme"
+}
